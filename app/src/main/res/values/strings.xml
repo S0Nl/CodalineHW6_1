@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="TabsItem">Tabs</string>
+    <string name="MD">Material Design</string>
+    <string name="ND">Navigation Drawer</string>
+    <string name="TB">Toolbar</string>
+    <string name="HW">Homework6</string>
+    <string name="name">Катериненко Юра</string>
+</resources>
